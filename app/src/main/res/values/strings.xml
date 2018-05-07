@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EstimoteSample</string>
+    <string name="title_activity_estimote">Map</string>
+</resources>
