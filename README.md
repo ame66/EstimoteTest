@@ -1,4 +1,0 @@
-# EstimoteSample
-# EstimoteTest
-# EstimoteTest
-# EstimoteTest
